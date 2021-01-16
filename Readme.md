@@ -8,7 +8,7 @@ Câu 3:
 Lấy ra mã, họ và tên của các nhân viên **nam** được nhận vào làm trong các năm **1995,1996,1997**
 
 Câu 4:
-Tính số lượng nhân viên **nữ** được tuyển vào làm trong các năm từ **1985 đến 1999, sắp xếp theo thứ tự giảm dần**
+Tính số lượng nhân viên **nữ** được tuyển vào làm trong mỗi năm từ **1985 đến 1999, sắp xếp theo số lượng nhân viên giảm dần**
 
 Câu 5:
 Tính số lượng nhân viên có **last_name bắt đầu bằng cụm từ Mich**
