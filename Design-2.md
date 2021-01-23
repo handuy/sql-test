@@ -1,4 +1,4 @@
-Thiết kế database cho 1 hệ thống học trực tuyến. Hệ thống bao gồm các thành phần sau:
+Vẽ sơ đồ ERD mô tả quan hệ giữa các thành phần trong 1 hệ thống học trực tuyến, bao gồm:
 
 **1. Khóa học**
 
