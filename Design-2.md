@@ -1,6 +1,7 @@
 Thiết kế database cho 1 hệ thống học trực tuyến. Hệ thống bao gồm các thành phần sau:
 
 **1. Khóa học**
+
 Gồm các thông tin: 
 - Tên khóa học
 - Giới thiệu nội dung
@@ -8,6 +9,7 @@ Gồm các thông tin:
 - Thông tin giảng viên
 
 **2. Chương**
+
 Gồm các thông tin:
 - Tên 
 - Vị trí của chương trong khóa học
@@ -15,6 +17,7 @@ Gồm các thông tin:
 Mỗi khóa học được chia ra thành nhiều chương
 
 **3. Bài học**
+
 Gồm các thông tin: 
 - Tên bài học
 - Nội dung bài học
@@ -28,6 +31,7 @@ Nội dung của mỗi bài học sẽ thuộc 1 trong 3 dạng sau:
 Mỗi chương gồm một hoặc nhiều bài học
 
 **4. Học viên**
+
 Gồm các thông tin: 
 - họ tên
 - email
