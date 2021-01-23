@@ -13,4 +13,4 @@ Thông tin về nhà cung cấp bao gồm:
 - ID
 - Tên
 
-Vẽ sơ đồ ERD mô tả quan hệ giữa sản phẩm, các thành phần, nhà cung cấp
+Vẽ sơ đồ ERD mô tả quan hệ giữa sản phẩm, các thành phần, nhà cung cấp 
